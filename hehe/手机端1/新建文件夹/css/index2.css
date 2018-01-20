@@ -1,0 +1,292 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+	width: 10rem;
+	margin: 0 auto;
+}
+header{
+ width: 10rem;
+    height: 1rem;
+}
+.tru{
+    width: 10rem;
+    height:1rem;
+}
+.tru1{
+    width: 10rem;
+    height: 0.8rem;
+   padding-top: 0.1rem;
+}
+.tru2{
+    width: 8.5rem;
+    height: 0.8rem;
+      margin-left: 0.5rem;
+      border-radius:7px;
+     background: #e3e3e5;
+      position: relative;
+      float:left;
+}
+.tru2 p{
+	width: 1rem;
+	height: 0.8rem;
+	float: left;
+	line-height: 0.8rem;
+	margin-left: 0.1rem;
+	position: relative;
+}
+.tru2 p img{
+	position: absolute;
+	
+	height: 0.8rem;
+}
+input{
+	border: none;
+    background: none;
+    width: 7.3rem;
+    height: 0.8rem;
+    font-size: 14px;
+   float: left;
+}
+.iconfont{
+	position: absolute;
+right:0.5rem;
+	top:0.19rem;
+}
+.tru3{
+	float: left;
+	width: 0.9rem;
+	height: 0.8rem;
+	background:url(../img/shou.gif);
+	background-size: 90% 100%;
+}
+.heng{
+	border: 0.02rem solid #dbdbdb;
+	width: 10rem;
+	
+}
+.bar{
+	width: 10rem;
+	height: 1rem;
+}
+.bar ul{
+	float: left;
+}
+.bar ul li{
+	float: left;
+	padding-left:0.9rem;
+	line-height: 1rem;
+	position: relative;
+}
+.bar ul li img{
+	width: 0.3rem;
+	height:1.1rem;
+position: absolute;
+bottom:0.001rem;
+left: 0.6rem;
+}
+.shu{
+	width:0.04rem;
+	height: 1rem;
+	background:#dbdbdb;
+	float: left;
+	margin-left: 0.2rem;
+}
+.tutu{
+	width: 1.3rem;
+	height: 1rem;
+	background:url(../img/tutu_03.gif);
+	background-size: 100% 100%;
+	float: left;
+}
+.heng1{
+	border: 0.02rem solid #dbdbdb;
+	width: 10rem;
+	float: left;
+}
+.zhuti{
+	width: 10rem;
+}
+.zhuti1{
+	width: 10rem;
+	height: 3.5rem;
+}
+ .zhuti1 .tu1{
+	width: 3.5rem;
+	height: 3.5rem;
+	background:url(../img/shenbaop.jpg);
+	background-size: 100% 100% ;
+	float: left;
+}
+.text{
+	width: 6rem;
+	height: 3.5rem;
+	float: left;
+	margin-left: 0.3rem;
+	}
+.text1{
+	width: 6rem;
+	height: 1.5rem;
+	font-size: 15px;
+	padding-top: 0.2rem;
+}
+.text2{
+	width: 6rem;
+	height: 1rem;
+	font-size: 18px;
+	color:#eb5211;
+}
+.text3{
+	width: 2rem;
+	float: left;
+	font-size: 12px;
+}
+.text4{
+	width: 2rem;
+		float: left;
+		font-size: 12px;
+}
+.text5{
+	width: 2rem;
+		float: left;
+		text-align: right;
+		font-size: 12px;
+}
+.zhuti2{
+	width: 10rem;
+	height: 3.5rem;
+	margin-top: 0.3rem;
+}
+.zhuti2 .tu1{
+	width: 3.5rem;
+	height: 3.5rem;
+	background:url(../img/pai1.jpg);
+	background-size: 100% 100% ;
+	float: left;
+	
+}
+.zhuti3{
+	width: 10rem;
+	height: 3.5rem;
+	margin-top: 0.3rem;
+}
+.zhuti3 .tu1{
+	width: 3.5rem;
+	height: 3.5rem;
+	background:url(../img/pai2.jpg);
+	background-size: 100% 100% ;
+	float: left;
+}
+.zhuti4{
+	width: 10rem;
+	height: 3.5rem;
+	margin-top: 0.3rem;
+}
+.zhuti4 .tu1{
+	width: 3.5rem;
+	height: 3.5rem;
+	background:url(../img/pai3.jpg);
+	background-size: 100% 100% ;
+	float: left;
+}
+.zhuti5{
+	width: 10rem;
+	height: 3.5rem;
+	margin-top: 0.3rem;
+}
+.zhuti5 .tu1{
+	width: 3.5rem;
+	height: 3.5rem;
+	background:url(../img/pai4.jpg);
+	background-size: 100% 100% ;
+	float: left;
+
+}
+.zhuti6{
+	width: 10rem;
+	height: 3.5rem;
+	margin-top: 0.3rem;
+}
+.zhuti6 .tu1{
+	width: 3.5rem;
+	height: 3.5rem;
+	background:url(../img/pai5.jpg);
+	background-size: 100% 100% ;
+	float: left;
+	margin-top: 0.3rem;
+}
+/*版权信息开始*/
+.buttom{
+    width: 10rem;
+    height: 3rem;
+    background:#555965;
+    margin-top: 0.3rem;
+}
+.buttom-1{
+    width: 9rem;
+    height: 3rem;
+    margin: 0 auto;
+}
+.buttom-2{
+    width: 9rem;
+    margin: 0 auto;
+    height: 1.7rem;
+}
+.buttom-2 a{
+    display: block;
+    color: #c3c6ca;
+    line-height: 0.6rem;
+    border: 2px solid #42454d;
+    background-color: #555965;
+    float: left;
+    margin-left: 0.3rem;
+    margin-top: 0.5rem;
+    border-radius:5px;
+     font-size: 12px;
+}
+[data-dpr="2"] .buttom-2 a{
+   
+    font-size: 19px;
+}
+[data-dpr="3"]  .buttom-2 a{
+
+    font-size:34px;
+}
+.den{
+    width: 1.6rem;
+   height: 0.6rem;
+       text-align: center; 
+}
+.zhu{
+  width: 1.6rem;
+   height: 0.6rem;  
+   text-align: center; 
+}
+.dian{
+   width: 1.9rem;
+   height: 0.6rem; 
+   text-align: center;   
+}
+.yong{
+     width: 2.2rem;
+   height: 0.6rem; 
+   text-align: center; 
+}
+.buttom-3{
+    width: 6rem;
+height: 0.2rem;
+    margin: 0 auto;
+    text-align: center;
+    color: #ccc;
+    font-size: 13px;
+}
+[data-dpr="2"] .buttom-3{
+   
+    font-size: 22px;
+}
+[data-dpr="3"]  .buttom-3{
+
+    font-size:36px;
+}
+/*版权信息结束*/
